@@ -2,7 +2,11 @@
 - I am a student of Comsats University Islamabad,
 - Doing my major in Computer Science.
 - .....
-- 
+- i will upload my work here...
+which will include python, java,
+and machine learning and modeling related complete projects.
+...
+
 - 
 
 <!---
